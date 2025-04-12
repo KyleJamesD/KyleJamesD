@@ -4,7 +4,8 @@ I'm Kyle Dyck, a software developer specialized in Java & PostgreSQL. I love cod
 
 ## 🔧 Technologies & Tools
 
-- Java & Spring Boot
+- Java
+- Spring Boot
 - Typescript
 - JavaScript
 - PostgreSQL

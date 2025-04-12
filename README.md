@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**KyleJamesD/KyleJamesD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kyle Dyck, a software developer specialized in Java & PostgreSQL. I love coding, open source, and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java & Spring Boot
+- Typescript
+- JavaScript
+- PostgreSQL
+- Oracle PL/SQL
+- React
+- Python
+- Next.js
+- Tailwind CSS
+- HTML
+- CSS
+
+
+## 🌱 Currently Learning
+
+- Spring Boot & BootStrap
+
+## 📫 How to Reach Me
+
+- Email: Kyledyck@outlook.com
+  
+⚡ Fun fact: Did you know Bees can fly higher then Mount Everest!

@@ -4,6 +4,7 @@ I'm Kyle Dyck, a software developer specializing in OOP & SQL. I love coding, op
 
 ## 🔧 Technologies & Tools
 
+- C#
 - Java
 - Spring Boot
 - Typescript

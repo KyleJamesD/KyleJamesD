@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kyle Dyck, a software developer specialized in Java & PostgreSQL. I love coding, open source, and learning new technologies.
+I'm Kyle Dyck, a software developer specializing in OOP & SQL. I love coding, open source, and learning new technologies.
 
 ## 🔧 Technologies & Tools
 
